@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me: Twitter @CyclopeBadger
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Monkey Business](https://media.giphy.com/media/l2QE1bH4wvCE8CcTK/giphy.gif)
 
 <!---
 schm00g/schm00g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
