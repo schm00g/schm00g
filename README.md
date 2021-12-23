@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schm00g
-- 👀 I’m interested in building products in web3 and experimenting with creative coding
+- 👀 I’m interested in building web3 products and experimenting with creative coding
 - 🌱 I’m currently learning to build on Solana & Ethereum
 - 💞️ I’m enjoy front-end engineering & UI/UX design...see [Figma design work](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI)
 - 📫 How to reach me: Twitter @CyclopeBadger
