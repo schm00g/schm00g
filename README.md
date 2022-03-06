@@ -5,7 +5,7 @@
 - ⛓️ Some more [links](https://link-stack.glitch.me/)
 - 📫 How to reach me: Twitter @CyclopeBadger
 
-![Monkey Business](https://media.giphy.com/media/l2QE1bH4wvCE8CcTK/giphy.gif)
+![Monkey Business](https://64.media.tumblr.com/88d7f78c342f4ac08ecd835fe144058d/70841eafa053ccaf-2b/s400x600/e1dca8fbd532ce48cdca22de0b14a2fb243c5c6f.gif)
 
 <!---
 schm00g/schm00g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
