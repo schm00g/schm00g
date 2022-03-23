@@ -2,7 +2,7 @@
 - 👀 I’m interested in building web3 products and experimenting with creative coding
 - 🌱 I’m currently learning to build on Ethereum & Solana
 - 💞️ I enjoy front-end engineering & UI/UX design...see [Figma design work](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI)
-- ⛓️ Some more [links](https://link-stack.glitch.me/)
+- ⛓️ Check out some other [links] to side projects and whatnot(https://link-stack.glitch.me/)
 - 📫 How to reach me: Urbit `~wolfeb-watsep` || Twitter `@shanemmcg`
 
 ![Calm Computing](https://media.giphy.com/media/TJaNEMTsdKaZ4sowzr/giphy.gif)
