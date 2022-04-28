@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to build on Ethereum & Solana
 - 👨🏻‍💻 I enjoy front-end engineering & UI/UX design...see [Figma](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI) design work.
 - ⛓️ Check out some other [links](https://link-stack.glitch.me/) to personal work & interests
-- 📫 How to reach me: Twitter `@shanemmcg`
+- 📫 How to reach me:  `~wolfeb-watsep` || `@shanemmcg`
 
 ![Calm Computing](https://media.giphy.com/media/TJaNEMTsdKaZ4sowzr/giphy.gif)
 
