@@ -1,7 +1,7 @@
 - 👋 Hi, I’m `@schm00g`
 - 👀 I’m interested in building web3 products and experimenting with creative coding
 - 🌱 I’m currently learning to build on Ethereum & Solana
-- 👨🏻‍💻 I enjoy front-end engineering & UI/UX design...see [Figma design work](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI)
+- 👨🏻‍💻 I enjoy front-end engineering & UI/UX design...see [Figma](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI) design work.
 - ⛓️ Check out some other [links](https://link-stack.glitch.me/) to personal work & interests
 - 📫 How to reach me: Twitter `@shanemmcg`
 
