@@ -1,9 +1,10 @@
-- 👋 Hi, I’m `@schm00g`
+- 👋 Hi
 - 🏗 I enjoy building products, front-end engineering & UI/UX design
 - 🧠 Previously worked at [Axial3D](https://axial3d.com/) and [PMD Solutions](https://www.pmd-solutions.com/)
 - 🌐  Some [Figma](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI) design work.
 - ⛓️ Check out some other [links](https://link-stack.glitch.me/) to personal work & interests
 - 📫 How to reach me:  `~wolfeb-watsep` || `@shanemmcg`
+  - `@schm00g`    
 
 ![Calm Computing](https://media.giphy.com/media/TJaNEMTsdKaZ4sowzr/giphy.gif)
 
