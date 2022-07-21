@@ -3,7 +3,7 @@
 - 🔨 Currently building [MAP](https://github.com/Optical-Tutor) - online tutoring subscription service focused on Maths & Physics 
 - 🧠 Previously built product at [Axial3D](https://axial3d.com/) and [PMD Solutions](https://www.pmd-solutions.com/)
 - 🌐 Some [Figma](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI) design work.
-- 👀 Blog (very much) [WIP](https://smcgrath.dev/) & [Analytics](https://umami-production-863f.up.railway.app/share/DM50VHxJ/Blog)
+- 👀 [Blog](https://smcgrath.dev/) (under construction) & [Analytics](https://umami-production-863f.up.railway.app/share/DM50VHxJ/Blog)
 - ⛓️ Check out some other [links](https://link-stack.glitch.me/) to personal work & interests
 
 ![Calm Computing](https://media.giphy.com/media/TJaNEMTsdKaZ4sowzr/giphy.gif)
