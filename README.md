@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Shane
-- 🏗 I enjoy building products, front-end engineering & UI/UX design
+- 🏗 I enjoy building products, frontend engineering & UI/UX design
 - 🔨 Currently building  - [Sustain.life](https://www.sustain.life/)
 - 🧠 Previously built product at [Axial3D](https://axial3d.com/), [PMD Solutions](https://www.pmd-solutions.com/) & [MAP](https://github.com/Optical-Tutor) (Next.js)
 - 🌐 Some [Figma](https://www.figma.com/file/BuYYW2RiWmQKK9dPAmsIJv/UI) design work.
